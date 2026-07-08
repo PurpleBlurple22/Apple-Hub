@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PurpleBlurple22/Apple-Hub/e436b64db51ace05fde42e414122af6cb5a8c936/AppleHub.lua"))()
